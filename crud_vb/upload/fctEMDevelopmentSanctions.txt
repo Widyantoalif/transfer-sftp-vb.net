@@ -1,0 +1,2 @@
+EMDevelopmentSanctionDate|EMDevelopmentSanctionTypeCode|ExchangeMemberCode|DataSourceCode|PenaltyFee
+20190510|KSEI006|YB|KSEI|0
